@@ -5,4 +5,6 @@ Main code of implimentation is in file  cifar10_KNN.py.
 
 You can download CIFAR-10 here: http://www.cs.toronto.edu/~kriz/cifar.html
 
+Please ignore the CL3 folder.
+
 
